@@ -1,0 +1,68 @@
+[
+    {
+      "name": "Audi",
+      "series": [
+        {
+          "name": "A1",
+          "min_supported_year": 2010,
+          "max_supported_year": 2023,
+          "power_types": ["Gasoline", "Diesel", "Hybird", "Electric", "Other"],
+          "supported_features": ["Diagnostics", "Live Data", "Battery Check"]
+        },
+        {
+          "name": "A3",
+          "min_supported_year": 1996,
+          "max_supported_year": 2023,
+          "power_types": ["Gasoline", "Diesel", "Hybird", "Electric", "Other"],
+          "supported_features": ["Diagnostics", "Live Data", "Battery Check"]
+        },
+        {
+          "name": "A4",
+          "min_supported_year": 1994,
+          "max_supported_year": 2023,
+          "power_types": ["Gasoline", "Diesel", "Hybird", "Electric", "Other"],
+          "supported_features": ["Diagnostics", "Live Data", "Battery Check"]
+        },
+        {
+          "name": "A5",
+          "min_supported_year": 2007,
+          "max_supported_year": 2023,
+          "power_types": ["Gasoline", "Diesel", "Hybird", "Electric", "Other"],
+          "supported_features": ["Diagnostics", "Live Data", "Battery Check"]
+        }
+      ]
+    },
+    {
+      "name": "BMW",
+      "series": [
+        {
+          "name": "e-tron",
+          "min_supported_year": 2019,
+          "max_supported_year": 2023,
+          "power_types": ["Gasoline", "Diesel", "Hybird", "Electric", "Other"],
+          "supported_features": ["Diagnostics", "Live Data"]
+        },
+        {
+          "name": "1 Series",
+          "min_supported_year": 2010,
+          "max_supported_year": 2023,
+          "power_types": ["Gasoline", "Diesel", "Hybird", "Electric", "Other"],
+          "supported_features": ["Diagnostics", "Live Data"]
+        },
+        {
+          "name": "2 Series",
+          "min_supported_year": 2004,
+          "max_supported_year": 2023,
+          "power_types": ["Gasoline", "Diesel", "Hybird", "Electric", "Other"],
+          "supported_features": ["Diagnostics", "Live Data"]
+        },
+        {
+          "name": "3 Series",
+          "min_supported_year": 2005,
+          "max_supported_year": 2023,
+          "power_types": ["Gasoline", "Diesel", "Hybird", "Electric", "Other"],
+          "supported_features": ["Diagnostics", "Live Data"]
+        }
+      ]
+    }
+  ]
