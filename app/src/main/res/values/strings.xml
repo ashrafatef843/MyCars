@@ -2,4 +2,14 @@
     <string name="app_name">Carly</string>
     <string name="title_activity_main">MainActivity</string>
     <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_your_cars">Your Cars</string>
+    <string name="title_back">back</string>
+    <string name="title_add_car">Add new car</string>
+    <string name="title_delete">Delete</string>
+    <string name="title_car_selection">Car Selection</string>
+    <string name="title_search_for_brand">Search for brand</string>
+    <string name="title_search_for_series">Search for series</string>
+    <string name="title_search_for_builder_year">Search for builder year</string>
+    <string name="title_search_for_power_type">Search for power type</string>
+    <string name="title_search">search</string>
 </resources>
