@@ -1,7 +1,6 @@
 package com.example.carly.cars.dashboard
 
 import androidx.compose.foundation.Image
-import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
@@ -37,13 +36,12 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.hilt.navigation.compose.hiltViewModel
 import com.example.carly.R
-import com.example.carly.cars.listing.presentation.model.CarView
-import com.example.carly.destinations.CarSelectionScreenDestination
-import com.example.carly.destinations.CarsScreenDestination
-import com.example.carly.base.presentation.main.ui.theme.DarkGray
 import com.example.carly.base.presentation.main.ui.theme.Gray
 import com.example.carly.base.presentation.main.ui.theme.LightGray
 import com.example.carly.base.presentation.main.ui.theme.White
+import com.example.carly.cars.destinations.CarSelectionScreenDestination
+import com.example.carly.cars.destinations.CarsScreenDestination
+import com.example.carly.cars.listing.presentation.model.CarView
 import com.ramcosta.composedestinations.annotation.Destination
 import com.ramcosta.composedestinations.navigation.DestinationsNavigator
 

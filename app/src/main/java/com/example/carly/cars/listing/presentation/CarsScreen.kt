@@ -40,13 +40,13 @@ import androidx.hilt.navigation.compose.hiltViewModel
 import com.example.carly.R
 import com.example.carly.base.presentation.GradientButton
 import com.example.carly.cars.listing.presentation.model.CarView
-import com.example.carly.destinations.CarSelectionScreenDestination
 import com.example.carly.base.presentation.main.ui.theme.DarkGray
 import com.example.carly.base.presentation.main.ui.theme.Gray
 import com.example.carly.base.presentation.main.ui.theme.LightGray
 import com.example.carly.base.presentation.main.ui.theme.Orange
 import com.example.carly.base.presentation.main.ui.theme.White
 import com.example.carly.base.presentation.main.ui.theme.Yellow
+import com.example.carly.cars.destinations.CarSelectionScreenDestination
 import com.ramcosta.composedestinations.annotation.Destination
 import com.ramcosta.composedestinations.navigation.DestinationsNavigator
 
